@@ -1,2 +1,4 @@
 # Finger-print-spoof-detection
 Detect fake finger prints using Naive Bayes classifier
+Fake fingers can be easily fabricated using commonly available materials, such as latex, silicone and gelatine, with the fingerprint ridges of an individual engraved on it. These fake fingers can then be used by an adversary to launch a spoof attack by placing them on a fingerprint sensor and claiming the identity of another individual. A fingerprint spoof detector is a pattern classifier that is used to distinguish a live finger from a fake (spoof) one in the context of an automated fingerprint recognition system. Most liveness detectors are learning-based and rely on a set of training images. Consequently, the performance of a liveness detector significantly degrades upon encountering spoofs fabricated using new materials not used during the training stage. 
+ 
